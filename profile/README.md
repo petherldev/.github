@@ -29,9 +29,6 @@
   <a href="https://github.com/petherldev/shadowlink">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=petherldev&repo=shadowlink&show_owner=true&theme=tokyonight_pink" />
   </a>
-  <a href="https://github.com/petherldev/starlight-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=petherldev&repo=starlight-bot&show_owner=true&theme=tokyonight_pink" />
-  </a>
 </p>
 
 
