@@ -23,8 +23,8 @@
 ## Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/petherldev/howdy-hub-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=petherldev&repo=howdy-hub-bot&show_owner=true&theme=tokyonight_pink" />
+  <a href="https://github.com/petherldev/git-changelog-maestro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=petherldev&repo=git-changelog-maestro&show_owner=true&theme=tokyonight_pink" />
   </a>
   <a href="https://github.com/petherldev/shadowlink">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=petherldev&repo=shadowlink&show_owner=true&theme=tokyonight_pink" />
